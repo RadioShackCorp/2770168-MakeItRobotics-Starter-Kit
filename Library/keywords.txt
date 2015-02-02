@@ -1,0 +1,67 @@
+MakeItRobotics	KEYWORD1
+dc_write	KEYWORD2
+m1_action	KEYWORD2
+m2_action	KEYWORD2
+go_forward	KEYWORD2
+go_backward	KEYWORD2
+turn_left	KEYWORD2
+turn_right	KEYWORD2
+turn_front_left	KEYWORD2
+turn_front_right	KEYWORD2
+move_stop	KEYWORD2
+m3_action	KEYWORD2
+m4_action	KEYWORD2
+bulldozer_head_up	KEYWORD2
+bulldozer_head_down	KEYWORD2
+drilling_head_colckwise	KEYWORD2
+drilling_head_countercolckwise	KEYWORD2
+surveillance_head_clockwise	KEYWORD2
+surveillance_head_counterclockwise	KEYWORD2
+boxer_left_hand_up	KEYWORD2
+boxer_left_hand_down	KEYWORD2
+boxer_right_hand_up	KEYWORD2
+boxer_right_hand_down	KEYWORD2
+street_sweeper_inward	KEYWORD2
+street_sweeper_outward	KEYWORD2
+catapult_head_clockwise	KEYWORD2
+catapult_head_counterclockwise	KEYWORD2
+catapult_head_pull	KEYWORD2
+catapult_head_throw	KEYWORD2
+clampingarm_up	KEYWORD2
+clampingarm_down	KEYWORD2
+clampingarm_clamp	KEYWORD2
+clampingarm_release	KEYWORD2
+spotlight_head_clockwise	KEYWORD2
+spotlight_head_counterclockwise	KEYWORD2
+spotlight_head_up	KEYWORD2
+spotlight_head_down	KEYWORD2
+spotlight_setup	KEYWORD2
+spotlight_on	KEYWORD2
+spotlight_off	KEYWORD2
+line_following_setup	KEYWORD2
+trigger_optical1	KEYWORD2
+trigger_optical2	KEYWORD2
+read_optical	KEYWORD2
+line_following_turn_left	KEYWORD2
+line_following_turn_right	KEYWORD2
+
+walking_robot_setup	KEYWORD2
+walking_robot_right_leg_forward	KEYWORD2
+walking_robot_left_leg_forward	KEYWORD2
+walking_robot_right_leg_backward	KEYWORD2
+walking_robot_left_leg_backward	KEYWORD2
+all_stop	KEYWORD2
+
+remote_value_read	KEYWORD2
+remote_scan	KEYWORD2
+remote_setup	KEYWORD2
+
+sensor_kit_optical_setup	KEYWORD2
+trigger_optical3	KEYWORD2
+read_optical3	KEYWORD2
+
+sensor_kit_mic_setup	KEYWORD2
+read_mic	KEYWORD2
+
+sensor_kit_infrared_setup	KEYWORD2
+read_infrared	KEYWORD2
