@@ -26,13 +26,15 @@
 
 If you are having difficulty installing the MakeItRobotics Library and would like to confirm that the MakeItRobotics Library was properly installed, your MakeItRobotics Library folder tree should like as follows:
 
->  ..Arduino or sketchbook directory > libraries > MakeItRobotics
->            L GNU GENERAL PUBLIC LICENSE.pdf
->            L keywords.txt
->            L library.properties
->            L MakeItRobotics.cpp
->            L MakeItRobotics.h
->            L READ_ME.txt
+    |-- Arduino or sketchbook directory
+        |-- libraries
+            |-- MakeItRobotics
+                |-- GNU GENERAL PUBLIC LICENSE.pdf
+                |-- keywords.txt
+                |-- library.properties
+                |-- MakeItRobotics.cpp
+                |-- MakeItRobotics.h
+                |-- README.md
 
 For more information about Libraries and for alternative installation methods, go to arduino.cc/en/Guide/Libraries
 
